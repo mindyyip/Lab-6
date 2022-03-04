@@ -16,12 +16,12 @@
 
 [Four Letter Pairs Code](./code/fourLetters.py)
 
-![Four Letter Pairs Image](./images/fourShortest.PNG)
+![Four Letter Pairs Image](./images/fourshortest.PNG)
 
 ## Unordered Pairs
 
 [Unordered Pairs Code](./code/unordered.py)
 
-![Unordered Pairs](./images/editDistance.PNG)
+![Unordered Pairs](./images/editdistance.PNG)
 
 
