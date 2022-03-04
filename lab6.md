@@ -2,7 +2,7 @@
 
 ## Plot Degree
 
-![Plot Degree Results](plotDegree.PNG)
+![Plot Degree Results](images\plotDegree.PNG)
 
 ## Five Letter Pairs
 
